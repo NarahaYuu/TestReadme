@@ -1,1 +1,12 @@
-![bayu-joget-identity](https://user-images.githubusercontent.com/62680911/163703462-a0e26cd9-b5fc-4314-8b0e-eb26e0655e59.gif)
+Informasi Kelompok:<br>
+Kelompok 5
+
+Anggota:<br>
+Wibby Arif Rahmawan<br>
+Bayu Nugraha
+
+Tema Project:<br>
+Forum Tanya Jawab
+
+Desain ERD:<br>
+![ERD](https://user-images.githubusercontent.com/62680911/229176438-6c05f370-fe29-4181-a94f-327691e2058c.png)
